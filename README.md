@@ -1,1 +1,2 @@
-# shopnow-new
+# shopnow
+Demo shopping website
